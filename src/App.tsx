@@ -16,7 +16,7 @@ function App() {
               <p >👋 Hello, my name is</p>
               <h2>Cormick Browne</h2>
               <div className='mb-4'>
-                <p className="mt-4 mb-4">I'm a Full-Stack Engineer with 9+ years of experience building scalable web applications. VP at Goldman Sachs with deep
+                <p className="mt-4 mb-4">I'm a Full-Stack Engineer with 9+ years of experience building scalable web applications. I'm a VP at Goldman Sachs with deep
         expertise on the frontend with React, JavaScript/TypeScript, and on the backend with Node.js, Java and Python.
         I have expertise with both SQL and NoSQL databases and a proven track record in designing, building, and improving
         performance of backend APIs. I've deployed microservices on Google Cloud Platform and bare-metal Linux hosts. I'm passionate about system
